@@ -28,6 +28,7 @@ A collection of resources on optimism
 * How to setup Optimistic rollup [ENG / [KOR](https://medium.com/onther-tech/%EC%98%B5%ED%8B%B0%EB%AF%B8%EC%8A%A4%ED%8B%B1-%EB%A1%A4%EC%97%85-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-390cd737c02f)]
 * How to use ERC20 on Optimistic rollup [ENG / [KOR](https://medium.com/onther-tech/%EC%98%B5%ED%8B%B0%EB%AF%B8%EC%8A%A4%ED%8B%B1-%EB%A1%A4%EC%97%85%EC%97%90%EC%84%9C-erc20-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-bc774f94d8b3)]
 * How to use ERC721 on Optimistic rollup [ENG / [KOR](https://medium.com/onther-tech/%EC%98%B5%ED%8B%B0%EB%AF%B8%EC%8A%A4%ED%8B%B1-%EB%A1%A4%EC%97%85%EC%97%90%EC%84%9C-erc721-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-bb647362ec5d)]
+* [Porting Solidity Contracts to Optimism: A Guide Using Uniswap V2](https://github.com/ScopeLift/ovm-uniswap-v2-core#porting-solidity-contracts-to-optimism-a-guide-using-uniswap-v2)
 
 
 
