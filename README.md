@@ -23,6 +23,11 @@ A collection of resources on optimism
 * [EVM optimistic rollup using Truebit](https://ethresear.ch/t/evm-optimistic-rollup-using-truebit/9318)
 * [MEV Auction: Auctioning transaction ordering rights as a solution to Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
 
+# Videos
+
+* [Optimism Overview and Code Walkthrough - ETHGlobal](https://www.youtube.com/watch?v=AHYSZ51ATWQ)
+* [Optimism: Keeping Ethereum Half-Full - ETHGlobal](https://www.youtube.com/watch?v=eYeOW4ePgZE)
+
 # Tutorial
 
 * How to setup Optimistic rollup [ENG / [KOR](https://medium.com/onther-tech/%EC%98%B5%ED%8B%B0%EB%AF%B8%EC%8A%A4%ED%8B%B1-%EB%A1%A4%EC%97%85-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-390cd737c02f)]
@@ -42,4 +47,5 @@ A collection of resources on optimism
 * [@eth-optimism/hardhat-ovm](https://github.com/ethereum-optimism/optimism/tree/master/packages/hardhat-ovm) 
 * [@eth-optimism/contracts](https://github.com/ethereum-optimism/optimism/tree/master/packages/contracts) 
 * [@eth-optimism/solc](https://github.com/ethereum-optimism/solc-js)
-* @eth-optimism/watcher
+* [@eth-optimism/watcher](https://github.com/ethereum-optimism/optimism/tree/develop/packages/core-utils)
+* [@eth-optimism/smock](https://github.com/ethereum-optimism/optimism/tree/develop/packages/smock)
